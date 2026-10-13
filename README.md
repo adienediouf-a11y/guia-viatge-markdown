@@ -1,4 +1,3 @@
-# guia-viatge-markdown
 # Roma
 
 ## Introducció
